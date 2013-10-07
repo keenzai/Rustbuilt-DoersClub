@@ -1,4 +1,4 @@
-The rustbuilt dojo
+The rustbuilt forge
 ==============
 
 We are Rustbuilt.
@@ -13,7 +13,7 @@ We are working on more formal details about Rustbuilt's goals, mission, values a
 
 As that is occurring, here is one way to participate. 
 
-The dojo is a place we have created for ourselves to further the training and support we wil need.
+The forge is a place we have created for ourselves to further the training and support we wil need.
 
 The core elements will include resources, drills, mentorship, and support. 
 
