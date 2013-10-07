@@ -19,5 +19,8 @@ The core elements will include resources, drills, mentorship, and support.
 
 Please join us in this experiment, feel free to edit/change/suggest.
 
+For now we're hosting this here. Check out the wiki for the relevant content/info 
+https://github.com/keenzai/Rustbuilt-Forge/wiki
+
 Thanks and welcome. 
 
