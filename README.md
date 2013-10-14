@@ -13,7 +13,7 @@ We are working on more formal details about Rustbuilt's goals, mission, values a
 
 As that is occurring, here is one way to participate. 
 
-The doers club is a place we have created for ourselves to further the training and support we wil need.
+The Doers club is a place we have created for ourselves to further the training and support we wil need.
 
 The core elements will include resources, drills, mentorship, and support. 
 
